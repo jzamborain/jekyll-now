@@ -5,7 +5,7 @@ title: Primera entrada!
 
 Vemos si aparece la imagen correctamente en esta primera entrada:
 
-![_config.yml]({{ site.baseurl }}/images/jekyll-logo.png)
+![_config.yml]({{ site.baseurl }}/images/The Force.PNG)
 
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
